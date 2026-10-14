@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # School Management System — MERN Stack
 
 A semester-project starter built with MongoDB, Express, React, and Node.js. Includes a dashboard, student CRUD, teacher CRUD, search, and a REST API.
@@ -80,3 +81,7 @@ Open the local URL Vite prints, usually `http://localhost:5173`.
 
 ## Important
 This is a learning/college project starter, not a production-ready school information system. Before using real student data, add authentication, authorization, audit logs, backups, validation, and privacy/security controls.
+=======
+# SUVARNA-EDUCATIONS
+SCHOOL MANAGEMENT SYSTEM FOR SUVARNA EDUCATIONS
+>>>>>>> 66f7edbb40a5cf1d259a71be79c28fc28e0fb2c5
