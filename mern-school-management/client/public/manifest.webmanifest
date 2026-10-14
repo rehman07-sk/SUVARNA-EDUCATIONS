@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "School Management System",
+  "short_name": "School Portal",
+  "description": "School portal for administrators, teachers, and students.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f8fc",
+  "theme_color": "#111b2e",
+  "icons": [
+    { "src": "/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

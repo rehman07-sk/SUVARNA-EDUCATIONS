@@ -1,0 +1,8 @@
+{
+  "appId": "com.suvarnaed.education",
+  "appName": "EduManage - SUVARNA EDUCATIONS",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  }
+}

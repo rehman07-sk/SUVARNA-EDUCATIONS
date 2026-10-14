@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EduManage - SUVARNA EDUCATIONS</string>
+    <string name="title_activity_main">EduManage - SUVARNA EDUCATIONS</string>
+    <string name="package_name">com.suvarnaed.education</string>
+    <string name="custom_url_scheme">com.suvarnaed.education</string>
+</resources>
